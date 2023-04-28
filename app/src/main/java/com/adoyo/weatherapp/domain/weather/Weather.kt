@@ -1,4 +1,4 @@
-package com.adoyo.weatherapp.domain
+package com.adoyo.weatherapp.domain.weather
 
 import androidx.annotation.DrawableRes
 import com.adoyo.weatherapp.R
