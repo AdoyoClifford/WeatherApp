@@ -10,7 +10,7 @@ This is a simple weather app built with jetpack compose, and  made use of the we
 
 ## Screenshots
 <img src="
-        alt="Markdown Monster icon"
+        alt="Screenshot"
         style="float: left; margin-right: 10px;" />
 
 ## Libraries Used
