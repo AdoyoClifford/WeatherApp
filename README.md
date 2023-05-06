@@ -9,8 +9,7 @@ This is a simple weather app built with jetpack compose, and  made use of the we
 - Get the weather of the city for the next 24 hours
 
 ## Screenshots
-<img src="
-        alt="Screenshot"
+<img src="app/screenshots/screenshot.jpg" width="200" height="400" alt="Markdown Monster icon"
         style="float: left; margin-right: 10px;" />
 
 ## Libraries Used
